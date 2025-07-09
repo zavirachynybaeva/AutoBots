@@ -6,5 +6,6 @@ public class ResetDemo {
         System.out.println("version 1.0.3 -> hello world");
         System.out.println("version 1.0.4 -> mixed");
         System.out.println("version 1.0.4 -> mixed demo");
+        System.out.println("version 1.0.5");
     }
 }
